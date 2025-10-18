@@ -1,2 +1,2 @@
-ip/ip.csv
-ip/ip.txt
+https://github.com/limgyun/call-ip/blob/40235a13fe90447b1ebcfe5207aad899b2ce84da/ip/ip.csv
+https://github.com/limgyun/call-ip/blob/40235a13fe90447b1ebcfe5207aad899b2ce84da/ip/ip/ip.txt
