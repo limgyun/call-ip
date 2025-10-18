@@ -1,2 +1,2 @@
-https://github.com/limgyun/call-ip/blob/40235a13fe90447b1ebcfe5207aad899b2ce84da/ip/ip.csv
+https://raw.githubusercontent.com/limgyun/call-ip/2292c95a1397f9e36ea44b7e3289e19b4b94fc9b/ip/ip.txt
 https://github.com/limgyun/call-ip/blob/40235a13fe90447b1ebcfe5207aad899b2ce84da/ip/ip/ip.txt
